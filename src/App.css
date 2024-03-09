@@ -1,0 +1,10 @@
+.app-container ul {
+    display: flex;
+    list-style-type: none
+}
+.app-container ul li {
+    margin: 20px;
+}
+.my-link {
+    color: green;
+}
